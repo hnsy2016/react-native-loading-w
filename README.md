@@ -1,7 +1,7 @@
 # Loading
 
 ```javascript
-npm install react-native-loading-w --save
+npm install https://github.com/hnsy2016/react-native-loading-w.git\#npm --save
 
 ```
 
